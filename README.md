@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 </p>
 
-# 💫 About Me:
+## 💫 About Me:
 
 ✉️ Jobs opportunities: I’m currently open for an Intern or a new job opportunity <br>
 🎓 Study path: I continue learning Software Development by myself. <br>
@@ -60,7 +60,7 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="www.linkedin.com/in/kevin-pérez-antonaki"><img src="https://img.shields.io/badge/-Kevin%20Pérez%20Antonaki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
