@@ -1,7 +1,17 @@
-<p align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+<p align="center">
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+kevstaa;Junior+Software+Developer;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
 </p>
 
+# 💫 About Me:
+
+✉️ Jobs opportunities: I’m currently open for an Intern or a new job opportunity and 
+🎓 Study path: I continue learning Software Development by myself.
+🔍 My Specialty: Back-End, but I have notions of Front-End too!
+
+
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
@@ -45,5 +55,14 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevstaa&theme=dark&hide_border=true&layout=compact)
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="www.linkedin.com/in/kevin-pérez-antonaki"><img src="https://img.shields.io/badge/-Kevin%20Pérez%20Antonaki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kperez2609@gmail.com"><img src="https://img.shields.io/badge/-kperez2609@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 
 
