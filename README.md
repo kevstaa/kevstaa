@@ -56,7 +56,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevstaa&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevstaa&theme=dark&hide_border=true&layout=compact&hide=mermaid)
 
 ---
 
