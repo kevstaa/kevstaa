@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-✉️ Jobs opportunities: I’m currently open for an Intern or a new job opportunity. <br>
+✉️ Jobs opportunities: I’m currently open for a new job opportunity. <br>
 🎓 Study path: I continue learning Software Development by myself. <br>
 🔍 My Specialty: Back-End, but I have notions of Front-End too. <br>
 
