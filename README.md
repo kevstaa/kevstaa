@@ -6,10 +6,17 @@
 
 ## 💫 About Me:
 
-✉️ Jobs opportunities: I’m currently open for a new job opportunity. <br>
-🎓 Study path: I continue learning Software Development by myself. <br>
-🔍 My Specialty: Back-End, but I have notions of Front-End too. <br>
+✉️ Jobs opportunities: I'm currently open for an Internship or a new job opportunity.<br>
+🌍 Open to relocating to Germany (Berlin) — EU citizen, no visa required.<br>
+🎓 Study path: I continue learning Software Development by myself.<br>
+🔍 My Specialty: Back-End, but I have notions of Front-End too.<br>
 
+
+## 🚀 Featured Projects
+ 
+**[TaskFlow](https://github.com/kevstaa/taskflow)** — Multi-user REST API for project and task management, built in Go following Clean Architecture. PostgreSQL (SQLC), Redis caching, JWT authentication, Docker. 15+ endpoints across users, projects, members, and tasks.
+ 
+**[RESTful API Cart](https://github.com/kevstaa/RESTful_API_Cart)** — RESTful API for an e-commerce shopping cart, built with PHP and the Slim Framework. Item management, quantity updates, real-time pricing, and checkout. MySQL, Composer.
 
 <br>
 
@@ -17,37 +24,25 @@
 <br>
 
 - 🔧 **Back-End Development**:
-    ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br>   
-    
-- 🎨 **Front-End Development**:
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-<br>
-
-- 🌱 **Currently Learning**:
-    ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<br>
 
 - 🛠️ **Softwares and Tools**:
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![NVim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
   <br><br>
   
 - ✨ **Also Worked With**:
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br><br>
+<br>
+
+- **Extras**:
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NVim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
 
 ---
 
